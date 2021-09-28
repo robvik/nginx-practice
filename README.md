@@ -18,3 +18,6 @@ The configurations focus on:
 - nginx -t: tests the nginx configuration
 - nginx -T: tests the nginx configuration and prints the validated configuration to the screen
 - nginx -s signal: Sends signals to stop, quit, reload, and reopen the nginx process
+
+#### complete example (webserver, load balancer, reverse proxy)
+![alt text](https://miro.medium.com/max/964/1*wsxdxOWkR7arPfNQNnHxzw.png "Complete architectural setup")
