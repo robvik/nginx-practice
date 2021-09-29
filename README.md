@@ -6,7 +6,7 @@ A practice repository for different nginx configurations for:
 
 The configurations focus on:
 - Performance
-- Security (HTTP/2, SSL, TFS)
+- Security (HTTP/2, SSL, TFS, /etc/sysctl.conf)
 - Caching (including micro cache)
 - Geographical access control
 - Bandwidth access control
